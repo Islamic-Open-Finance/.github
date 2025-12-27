@@ -13,12 +13,6 @@ To democratize access to Islamic finance technology by providing open, standardi
 - **Developers**: Access well-documented SDKs and tools
 - **Regulators**: Ensure compliance with clear audit trails
 
-## Core Platform
-
-| Repository | Description | Status |
-|------------|-------------|--------|
-| [app](https://github.com/Islamic-Open-Finance/app) | Main platform - Rail API, services, infrastructure | Production Ready |
-
 ## SDKs & Tools
 
 | Repository | Description | Language |
@@ -100,8 +94,8 @@ contract = await client.contracts.create(
 ## Community
 
 - [Discussions](https://github.com/orgs/Islamic-Open-Finance/discussions)
-- [Issues](https://github.com/Islamic-Open-Finance/app/issues)
-- [Contributing](https://github.com/Islamic-Open-Finance/app/blob/main/CONTRIBUTING.md)
+- [Issues](https://github.com/Islamic-Open-Finance/iof-sdk-typescript/issues)
+- [Contributing](https://github.com/Islamic-Open-Finance/iof-sdk-typescript/blob/main/CONTRIBUTING.md)
 
 ## License
 
@@ -109,7 +103,7 @@ All repositories are licensed under the [Apache License 2.0](https://www.apache.
 
 ## Trademark
 
-Islamic Open Finance™ and IOF™ are trademarks. See [TRADEMARK.md](https://github.com/Islamic-Open-Finance/app/blob/main/open-source/TRADEMARK.md) for usage guidelines.
+Islamic Open Finance™ and IOF™ are trademarks. See our trademark guidelines for usage.
 
 ---
 
