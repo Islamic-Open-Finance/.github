@@ -1,8 +1,8 @@
-# Islamic Open Finance
+# Islamic Open Finance™
 
 **Building the future of Shariah-compliant financial infrastructure**
 
-Islamic Open Finance (IOF) is an open-source platform providing enterprise-grade APIs and tools for Islamic banking and finance operations.
+Islamic Open Finance™ (IOF) is an open-source platform providing enterprise-grade APIs and tools for Islamic banking and finance operations.
 
 ## Our Mission
 
@@ -85,11 +85,11 @@ contract = await client.contracts.create(
 
 ## Documentation
 
-- [API Reference](https://docs.islamic-open-finance.com/api)
-- [Quick Start Guide](https://docs.islamic-open-finance.com/quickstart)
-- [Authentication](https://docs.islamic-open-finance.com/auth)
-- [Webhooks](https://docs.islamic-open-finance.com/webhooks)
-- [Islamic Finance Primer](https://docs.islamic-open-finance.com/primer)
+- [API Reference](https://docs.islamicopenfinance.com/api)
+- [Quick Start Guide](https://docs.islamicopenfinance.com/quickstart)
+- [Authentication](https://docs.islamicopenfinance.com/auth)
+- [Webhooks](https://docs.islamicopenfinance.com/webhooks)
+- [Islamic Finance Concepts](https://docs.islamicopenfinance.com/concepts)
 
 ## Community
 
